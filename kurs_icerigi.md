@@ -57,8 +57,9 @@ Pekiştirmeli öğrenme örnekleri
 Çeşitli optimizayon teknikleri
 
 • Ve diğerleri..
-.
+
 Ön Koşul: Temel düzeyde herhangi bir programlama dilinde tecrübeli olmak yeterlidir
+
 Kimler Katılmalı:İş analitiği ve makina öğrenmesi konusuna ilgi duyan herkes katılabilir
 
 Bu kurs C ve Sistem Programcıları Derneği ve Sistem Bilgisayar işbirliği ile düzenlenmektedir.
