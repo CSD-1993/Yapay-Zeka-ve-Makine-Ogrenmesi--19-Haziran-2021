@@ -4,7 +4,7 @@ Bu kurs R, Phyton, Knime ve IBM Watson programlama ortamlarını kullanarak Maki
 
 Ön Koşul: Bu kurs için katılımcıların temel düzeyde programlama bilgisine sahip olması gerekmektedir. 
 
-Kimler Katılmalı:İş analitiği ve makina öğrenmesi konusuna ilgi duyan herkes katılabilir
+Kimler Katılmalı: İş analitiği ve makina öğrenmesi konusuna ilgi duyan herkes katılabilir
 
 ## Eğitim Süresi
 Eğitim Süresi __200__ Saattir.
