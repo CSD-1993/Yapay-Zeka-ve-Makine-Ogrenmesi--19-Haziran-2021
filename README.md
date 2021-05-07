@@ -1,1 +1,1 @@
-# Yapay-Zeka-ve-Makine-Öğrennmesi-2021
+# Yapay-Zeka-ve-Makine-Ogrennmesi-2021
