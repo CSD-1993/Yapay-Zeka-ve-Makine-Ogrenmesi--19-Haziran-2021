@@ -58,7 +58,8 @@ Pekiştirmeli öğrenme örnekleri
 
 • Ve diğerleri..
 
+Süre: 200 saat
 
 Bu kurs C ve Sistem Programcıları Derneği ve Sistem Bilgisayar işbirliği ile düzenlenmektedir.
 
-Süre: 200 saat
+
