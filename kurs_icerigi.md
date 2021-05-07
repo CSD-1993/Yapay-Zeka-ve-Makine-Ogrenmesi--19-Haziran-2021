@@ -1,3 +1,5 @@
+Yapay Zeka ve Makine Öğrenmesi
+
 Bu kurs R, Phyton, Knime ve IBM Watson programlama ortamlarını kullanarak Makine öğrenmesi konusunda gerçek iş uygulamalarına yönelik katılımcıların becerisini kazandırmayı hedeflemektedir. Kurs içerisinde pek çok konu belli bir derinlikte ele alınmaktadır. Bu kurs aynı zamanda bir uygulama kursu olduğundan iş dünyasında karşılaşan süreçlerle ilgili örnekler de verilmektedir.
 Kurs konularından bazıları aşağıdadır:
 • Temel, Uygulamalı istatistik
