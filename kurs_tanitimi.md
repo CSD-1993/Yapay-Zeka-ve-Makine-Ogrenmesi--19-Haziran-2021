@@ -2,7 +2,9 @@
 
 Bu kurs R, Phyton, Knime ve IBM Watson programlama ortamlarını kullanarak Makine öğrenmesi konusunda gerçek iş uygulamalarına yönelik katılımcılara beceri kazandırmayı hedeflemektedir. Kurs içerisinde pek çok konu belli bir derinlikte ele alınmaktadır. Bu kurs aynı zamanda bir uygulama kursu olduğundan iş dünyasında karşılaşılan süreçlerle ilgili örnekler de verilmektedir.
 
-Bu kurs için katılımcıların temel düzeyde programlama bilgisine sahip olması gerekmektedir. 
+Ön Koşul: Bu kurs için katılımcıların temel düzeyde programlama bilgisine sahip olması gerekmektedir. 
+
+Kimler Katılmalı:İş analitiği ve makina öğrenmesi konusuna ilgi duyan herkes katılabilir
 
 ## Eğitim Süresi
 Eğitim Süresi __200__ Saattir.
