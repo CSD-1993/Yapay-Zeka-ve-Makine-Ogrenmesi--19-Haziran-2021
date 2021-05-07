@@ -3,7 +3,7 @@
 + Kurs ` 2021` tarihinde başlayacaktır.
 + Kurs eğitmeni `Kaan Aslan`'dır.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi `200` saattir. Dersler `Cumartesi, Pazar ` günleri `17:00 - 21:00` saatleri arasında yapılacaktır.
++ Toplam kurs süresi `200` saattir. Dersler `Cumartesi- Pazar ` günleri `17:00 - 21:00` saatleri arasında yapılacaktır.
 + Kursun toplam ücreti KDV dahil `4.800 TL`‘dir. Öğrencilere (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil `4.300` TL dir.daha önce dernekte Yapay Zeka kursuna katılmış olanlar için ise kurs ücreti 3800 TL'dir. Katılımcılar kurs ücretini dilerlerse `2 taksitte` ödeyebilirler.
 
 ## Kursla ilgili bağlantılar
