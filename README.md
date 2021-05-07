@@ -1,0 +1,1 @@
+# Yapay-Zeka-ve-Makine-renmesi-2021
