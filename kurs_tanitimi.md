@@ -1,6 +1,6 @@
 ## Yapay Zeka ve Makine Öğrenmesi
 
-Bu kurs R, Phyton, Knime ve IBM Watson programlama ortamlarını kullanarak Makine öğrenmesi konusunda gerçek iş uygulamalarına yönelik katılımcıların becerisini kazandırmayı hedeflemektedir. Kurs içerisinde pek çok konu belli bir derinlikte ele alınmaktadır. Bu kurs aynı zamanda bir uygulama kursu olduğundan iş dünyasında karşılaşan süreçlerle ilgili örnekler de verilmektedir.
+Bu kurs R, Phyton, Knime ve IBM Watson programlama ortamlarını kullanarak Makine öğrenmesi konusunda gerçek iş uygulamalarına yönelik katılımcılara beceri kazandırmayı hedeflemektedir. Kurs içerisinde pek çok konu belli bir derinlikte ele alınmaktadır. Bu kurs aynı zamanda bir uygulama kursu olduğundan iş dünyasında karşılaşılan süreçlerle ilgili örnekler de verilmektedir.
 Bu kurs için katılımcıların temel düzeyde programlama bilgisine sahip olması gerekmektedir. 
 
 ## Eğitim Süresi
@@ -13,7 +13,7 @@ Dersler __Cumartesi-Pazar__ günleri saat __17:00-21:00__ saatleri arasında __4
 Kurs ____Kaan ASLAN__ tarafından verilmektedir.
 
 ## Kurs Ücreti
-Kursun toplam ücreti KDV dahil __4800 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __4300 TL__'dir.Daha önce dernekte Yapay Zeka kursuna katılmış olanlar için ise kurs ücreti 3800 TL'dir  Kurs ücretini __2 taksitte__ ödeyebilirsiniz.
+Kursun toplam ücreti KDV dahil __4800 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __4300 TL__'dir.Daha önce dernekte Yapay Zeka kursuna katılmış olanlar için ise kurs ücreti __3800 TL__'dir  Kurs ücretini __2 taksitte__ ödeyebilirsiniz.
 
 
 ## Kursa Kayıt
