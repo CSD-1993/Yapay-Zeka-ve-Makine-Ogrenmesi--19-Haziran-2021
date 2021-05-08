@@ -1,6 +1,6 @@
 ## Yapay Zeka ve Makine Öğrenmesi
 
-Bu kurs Python Programlama Dili ile Yapay Zeka ve Makinne Öğrenmesi Konularının ele alındığı uygulamalı bir kurstur. Kurs içerisinde makine öğrenmesine ilişkin pek çok konu uygulamalı olarak ele alınmaktadır. 
+Bu kurs Python Programlama Dili ile Yapay Zeka ve Makine Öğrenmesi Konularının ele alındığı uygulamalı bir kurstur. Kurs içerisinde makine öğrenmesine ilişkin pek çok konu uygulamalı olarak ele alınmaktadır. 
 
 Ön Koşul: Bu kurs için katılımcıların temel düzeyde Python Programalama Dili bilgisine sahip olması gerekmektedir. 
 
