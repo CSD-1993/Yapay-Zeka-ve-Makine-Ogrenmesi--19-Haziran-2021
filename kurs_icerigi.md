@@ -134,7 +134,7 @@
   * Matrisler ve Determinantlar
   * Lineer Denklem Sistemlerinin Çözümü
   * Özdeğerler ve Öz Vektörler
-  *
+  
 * __Veriler Üzerinde Boyutsal Veri  İndirgemeleri__
 
   * Düşük Varyans Filtremeleri
