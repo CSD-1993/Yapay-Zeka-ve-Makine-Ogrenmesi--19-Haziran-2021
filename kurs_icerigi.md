@@ -7,7 +7,7 @@
    * Python Programlama Dilinin Yeniden Gözden Geçirilmesi
    * Scipy, Numpy, Pandas ve Matplotlib Kütüphanelerinin Yeniden Gözden Geçirilmesi
 
-# __Temel Kavramlar ve Konular__
+* __Temel Kavramlar ve Konular__
 
   * Yapay Zeka Çalışmalarının Tarihsel Gelişimi
   * Yapay Zekanın Alt Alanları
@@ -23,4 +23,26 @@
   * CSV Dosyalarından, Excel Dosyalarından, Veritabanlarından Verilerin Okunması
   * Kategorik (Nominal) ve Sıralı (Ordinal) Verilerin Sayısal Biçime Dönüştürülmesi
   * One Hot Encoding İşlemi ve Anlamı
+
+* __Biraz İstatistik__
+  
+  * Betimsel (Desvcriptive) ve Çıkarımsal (Inferential) İstatistik
+  * Anakütle ve Örneklem Kavramları
+  * Olasılıkla İlgili Temel Bilgiler 
+  * Varyans, Kovaryans ve Korelasyon Kavramları
+  * ython'da Betimsel İstatistik İle İlgili Kütüphanelerin Yeniden Gözden Geçirilmesi
+  * Olasılık Dağılımları
+  * Hipotez Testleri ve Hipotez Testlerinde Kullanılan Kavramlar ve Onların Anlamları
+  
+* __Yapay Sinir Ağları__
+
+  * İnsanın Sinir Sisteminin Anatomi ve Fizyolojisi İle İlgili Temel Bilgiler (Nöronlar, Nörotransmiter'ler, Sinaps'lar)
+  * Öğrenme Beyinde Nasıl Gerçekleşiyor? 
+  * Bilgiler Beyinde Nasıl Tutuluyor? 
+  * Duyum ve Algı Kavramları 
+  * Beynin Bilinenleri ve Bilinmeyenleri.
+  * Yapay Sinir Ağı Nedir?
+
+
+
 
