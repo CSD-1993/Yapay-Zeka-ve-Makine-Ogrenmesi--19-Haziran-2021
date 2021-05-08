@@ -4,7 +4,7 @@ Bu kurs Python Programlama Dili ile Yapay Zeka ve Makine Öğrenmesi Konuların�
 
 Ön Koşul: Bu kurs için katılımcıların temel düzeyde Python Programalama Dili bilgisine sahip olması gerekmektedir. 
 
-Kimler Katılmalı:  Yapay Zeka, makina öğrenmesi ve verş bilimi konularına ilgi duyan herkes katılabilir.
+Kimler Katılmalı:  Yapay Zeka, makine öğrenmesi ve verş bilimi konularına ilgi duyan herkes katılabilir.
 
 ## Eğitim Süresi
 Eğitim Süresi __200__ Saattir.
