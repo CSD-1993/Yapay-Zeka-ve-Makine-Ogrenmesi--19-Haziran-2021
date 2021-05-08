@@ -21,4 +21,4 @@ Kursun toplam ücreti KDV dahil __4800 TL__'dir. Öğrenci olanlar için kurs fi
 
 ## Kursa Kayıt
 Kursa aşağıdaki bağlantıdan ön kayıt yaptırabilirsiniz:<br>
-[Kursa Kayıt]( https://zoom.us/meeting/register/tJMqd-qsqTMjEtRU0HlVWEa_kTHP-DJeWHcI)
+[Kursa Kayıt](  https://us02web.zoom.us/meeting/register/tZAlf-itrjgpE9JjPQNfnQsEqhr0BqQ8Pa_f)
