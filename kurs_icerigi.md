@@ -42,6 +42,75 @@
   * Duyum ve Algı Kavramları 
   * Beynin Bilinenleri ve Bilinmeyenleri.
   * Yapay Sinir Ağı Nedir?
+  * Yapay Sinir Ağlarının Tarihsel Gelişimi
+  * Yapay Sinir Ağlarının Uygulama Alanları
+  * Yapay Nöron Modeli
+  * Yapay Bir Nöronun Python'da Sınıfsal Temsili
+  * Aktivasyon Fonksiyonları ve Nöron Bağlantıları
+  * Yapay Sinir Ağlarında Katmanlar ve Derin Öğrenme Ağları
+  * Yapay Sinir Ağlarında Yaygın Kullanılan Kütüphaneler ve Framework'ler
+  * Denetimli Yapay Sinir Ağlarında Veri Kümeleri (Eğitim Veri Kümesi, Sınama Veri Kümesi ve Test Veri Kümesi)
+  * Keras Kütüphanesinin Kısa Tarihi
+  * Keras Kütüphanesinin Kurulumu
+  * Yapay Sinir Ağlarının Keras Kütüphanesi İle Yüksek Seviyeli Biçimde Oluşturulması
+  * Girdi Katmanlarının, Ara Katmanlaınr ve Çıktı Katmanlarının Oluşturulması
+  * Keras'ta Yapay Sinir Ağı Modelinin Derlenmesi
+  * Optimizasyon Algoritmaları ve Anlamı
+  * loss Fonksiyonu Nedir? Çok Kullanılan Loss Fonksiyonları
+  * Keras'ta Yapay Sinir Ağı Modelinin Eğitilmesi
+  * Epoch ve Batch Kavramları
+  * Sınama (Validation) İşleminin Anlamı
+  * Test Veri Kümesi ve Modelin Test Edilmesi
+  * Keras Modelinin Dosyalarda Saklanması ve Geri Yüklenmesi
+  * Keras'ta Callback Mekanizması
+  * Sinir Ağı Verilerinin Ölçeklenmesi 
+  * Yapay Sinir Ağlarında "Overfitting" ve "Underfitting" Olguları
+  * Kestirim Modeli Olarak Yapay Zeka Modelleri ile İstatistiksel Regresyon Modelleri Arasındaki Farklılıklar
+  * Yapay Sinir Ağlarıyla Lojistik Regresyon Örnekleri
+  * Çok Sınıflı (Multinomial) ve Çok Etiketli (Multilabel) Lojistik Regresyon Örnekleri
+  * Yapay Sinir Ağlarıyla Lojistik Olmayan Regresyon Örnekleri
+  * Yapay Sinir Ağlarıyla Çok Değişkenli (Multivariate) Regresyon Örnekleri
+  * Sinir Ağlarında Evrişim (Convolution) İşlemleri ve Evrişimsel Sinir Ağları
+  * Keras'ta Evrişimsel Sinir Ağları İle İşlemler
+  * Evrişimsel Sinir Ağı Modellerinde Nöron Sayılarının Azaltılması  (Downsampling)
+  * Keras'ta Eğitimin Belli Bir Durumda Sonlandırılması
+  * Geri Beslemeli Sinir Ağları (Recurrent Neural Networks)
+  * Geri Beslemeli Sinir Ağlarında SimpleRNN, LSTM ve GRU Katmanları
+  * Çift Yönlü LSTM Katmanları
+  * Geri Beslemeli Ağların Kestirimde Kullanılmaları
+  * Geri Beslemeli Sinir Ağlarına İlişkin Örnekler
+  * Autoencoder Modelleri
+  * Keras Modellerinin Fonksiyonel Olarak Oluşturulması
+
+* __TensorFlow Kütüphanesinin Kullanımı__
+
+  * TensorFlow kütüphanesinin Tarihsel Gelişimi
+  * TensorFlow Küyüphenesinin Kurulumu
+  * TensowFlow Kütüphansinin 1'li Versyonlarının Kullanımı
+  * Tensor Nesnelerinin Oluşturulması
+  * TensorFlow'da Değişkenler
+  * İfadelerin İşetilmesi ve Session Kavramı
+  * Değişkenler ve Sabitler Üzerinde eval İşlemleri
+  * TensorFlow'da Yer Turucular (Place Holders)
+  * Yapay Sinir Ağı Modellerinin TensorFlow'da Oluşturulması
+  * TensorFlow'da Yapay Sinir Ağı Örnekleri
+  * TensowFlow Kütüphansinin 2'li Versyonlarının Kullanımı
+
+* __Yapay Sinir Ağları İle Metinler Üzerinde İşlemler__
+
+  * Metinsel Verilerde Embedding İşlemleri
+  * Metinlerin İçeriğe Göre Sınıflandırılması
+  * Metinlerden Anlam Çıkarılması
+  * Metinsel Çıktı Üretimleri
+  * ChatBot İşlemleri
+
+
+
+
+
+
+
+
 
 
 
