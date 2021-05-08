@@ -104,6 +104,124 @@
   * Metinsel Çıktı Üretimleri
   * ChatBot İşlemleri
 
+* __Ses ve Görüntü Verileri Üzerinde Yapay Zeka İşlemleri__
+
+  * Konuşma Kayıtlarına İlişkin Verilerle Çalışma
+  * Konuşma Verilerinde Sınıflandırma İşlemleri
+  * Yüz Tanıma İşlemleri
+  * Resimlerin Sınıflandırılması
+  * Hareketli Görüntü Verileri Üzerinde İşlemler
+  * Yapay Sinir Ağı İle Resim Tanıma Uygulamaları
+  * Renkli Resimler Üzerinde Uygulamalar
+
+* __Denetimsiz Öğrenme (Unsupervised Learning)__
+
+  * Kümeleme (Clustering) İşlemleri
+  * Kümeleme ve Sınıflandırma Arasındaki Frklılıklar
+  * K-Means Kümeleme Algoritmasının Gerçekleştirilmesi
+  * Scikit-Learn KMeans Sınıfının Kullanılması
+  * K-Means Kümelemesine Çeşitli Örnekler
+  * K-Means Yönteminde Ölçeklendirme
+  * K-Means Yönteminde Küme Sayılarının Belirlenmesi (Elbow ve Silhouette Yöntemleri)
+  * Hiyerarşik Kümeleme Yöntemleri
+  * Agglomerative"ve Divisive Hiyerarşik Kümeleme Yöntemleri
+  * Hiyerarşik Kümeleme Yöntemlerinin Scikit-Learn Kütüphanesi İle Gerçekleştirimi
+  * K-Means Yöntemiyle Hiyerarşik Yöntemin Karşılaştırılması
+
+
+* __Biraz Lineer Cebir__
+
+  * Matrisler ve Determinantlar
+  * Lineer Denklem Sistemlerinin Çözümü
+  * Özdeğerler ve Öz Vektörler
+  *
+* __Veriler Üzerinde Boyutsal Veri  İndirgemeleri__
+
+  * Düşük Varyans Filtremeleri
+  * Yüksek Korelasyon Filtremeleri
+  * Geriye Doğru Özellik İndirgemeleri
+  * İleriye Doğru Özellik İndirgemeleri * 
+  * Faktör Analizi Yöntemi İle Boyutsal Veri İndirgemesi
+  * Temel Bileşenler Analizi İle Boyutsal Veri İndirgemeler,
+
+* __Anomalilerin Belirlenmesi (Anomaly Detection)__
+  
+  * Anomalilerin Tespit Edilmesi İçin Yaklaşımlar
+  * Yoğunluk Tabanlı Anomali Tespit Yöntemleri
+  * Kümeleme Tabanlı Anomali Tespit Yöntemleri
+  * DBSCAN Yöntemiyle Anomalilerin Tespit Edilmesi
+
+* __Matematiksel Optimizasyon İşlemleri__
+
+  * Maksimizasyon ve Minimizasyon Problemleri
+  * Gradient Ascent ve Gradient Descent Algoritmalarının Anlamı
+  * Stochastic Gradient Algoritmalar ve Mini Batch Yöntemleri
+  * Doğrusal Programlama ve Doğrusal Karar Modellerinin Scipy ve Pulp Kütüphaneleri İle  Çözümü 
+  * Doğrusal Olmayan Programlama ve Doğrusal Olmayan Modellerin Tanıtımı
+  * Graflar 
+  * Graflar Üzerinde Optimizasyon Problemleri (Gezgin Satıcı Problemi,  En Kısa Yol Problemi, En Küçükm Örten Ağaç Problemi, Hamilton ve Euler Turlu Problemler vs.)
+  * Pyton'da Graf Problemleri İçin Kullanılan Kütüphaneler
+  * Graf Çizimleri ve Graphwiz Kütüphanesinin Kullanımı
+
+* __İstatistiksel Yöntemlerle Regresyon Analizleri__
+
+  * Basit Doğrulsal Regresyon 
+  * Çoklu Doğrusal Regresyon
+  * Çok Değişkenli Doğrusal Regresyon
+  * Polinomsal Regresyon
+  * Scikit-Learn Kütüphanesi ile Regresyon İşlemleri
+  * Gradient Descent Yöntemiyle Lojistik Regresyonlar
+  * Scikit-Learn LogisticRegression Sınıfının Kullanımı
+  * Karar Ağaçlarıyla Lojistik Regresyon
+  * Lojistik Regresyon Yöntemlerinin Karşılaştırılması
+  * Çok Sınıflı (Multinomial) Lojistik Regresyon Modellerinin Scikit-Learn İle Çözümü
+  * Karar Ağaçları (Decision Trees)
+  * Destek Vektör Makineleri (Support Vector Machines)
+  * Rassal Ormanlar (Random Forests)
+
+* __PyTorch ve Theano Kütüphanelerinin Kullanımları__
+
+  * PyTorch Kütüphanesinin Kurulumu
+  * PyToch Kütüphanesinin Temel Özellikleri
+  * PyTorch Kütüphanesinde Temel Çalışma Biçimi
+  * PyTorch ile Yapay Sinir Ağlarının Oluşturulması
+  * Theano Kütüphanesinin Kurulumu
+  * Theano Kütüphanesinin Kurulumu
+  * Theano Kütüphanesinin Temel Özellikleri
+  * Theano Kütüphanesi ile Yapay Sinir Ağlarının Oluşturulması
+
+* __Pekiştirmeli Öğrenme (Reinforcemnt Learning)__
+
+  * Pekiştirmeli Öğrenme Nedir?
+  * İnsan Öğrenmesinde Edimsel Koşullanma (Operant Conditioning)
+  * İnsan Öğrenmesinde Pekiştireçler ve Pekiştirme Tarifeleri
+  * Pekiştirmeli Makine Öğrenmesi Nedir?
+  * Pekiştirmeli Makine Öğrenmesinin Uygulama Alanları
+  * OpenAI GYM Ortamı
+  * OpenAI GYM Simülatörlerinin Kullanılması
+  * Pekiştirmeli Öğrenmede Kullanılan Algoritmalar
+  * Q-Learnibg Algoritması
+  * Q-Learning Algoritması ile Örnekler
+  * Pekiştirmeli Öğrenmelerde Yapay Sinir Ağlarının Kullanımı
+  * Pekiştirmeli Öğrenmede Deep Q-Learning Yöntemleri
+  * Pekiştirmeli Öğrenmede Kullanılabilecek Yüksek Seviyeli Kütüphaneler
+  * Stable-Baselines Kütüphanesinin Kullanılması
+
+* __Cloud Ortamlarında Veri Bilimi ve Makine Öğrenmesi ile İlgili Temel Bilgiler__
+
+  * Amazon AWS Üzerinde Veri Analizi ve Makine Öğrenmesi Uygulamaları
+  * Google Cloud Platform Üzerinde Veri Analizi ve Makine Öğrenmesi Uygulamaları
+  * Microsoft Azure Platformu Üzerinde Veri Analizi ve Makine Öğrenmesi Uygulamaları
+  * IBM Watson Platformu Üzerinde Veri Analizi ve Makine Öğrenmesi Uygulamaları
+
+
+
+
+
+
+
+
+
 
 
 
