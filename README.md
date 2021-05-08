@@ -10,4 +10,4 @@
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Yapay-Zeka-ve-Makine-Ogrenmesi-2021/blob/main/kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Yapay-Zeka-ve-Makine-Ogrenmesi-2021/blob/main/kurs_icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Yapay-Zeka-ve-Makine-Ogrenmesi-2021/blob/main/sss.md)
-+ [Kursa Kayıt](  https://us02web.zoom.us/meeting/register/tZAlf-itrjgpE9JjPQNfnQsEqhr0BqQ8Pa_f)
++ [Kursa Kayıt]( https://us02web.zoom.us/meeting/register/tZAlf-itrjgpE9JjPQNfnQsEqhr0BqQ8Pa_f)
