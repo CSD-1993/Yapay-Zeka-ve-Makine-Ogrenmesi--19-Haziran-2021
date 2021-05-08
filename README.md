@@ -1,6 +1,6 @@
 # Yapay-Zeka-ve-Makine-Ogrennmesi-2021
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
-+ Kurs ` 2021` tarihinde başlayacaktır.
++ Kurs 19 Haziran 2021 tarihinde başlayacaktır.
 + Kurs eğitmeni `Kaan Aslan`'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi `200` saattir. Dersler `Cumartesi- Pazar ` günleri `17:00 - 21:00` saatleri arasında yapılacaktır.
